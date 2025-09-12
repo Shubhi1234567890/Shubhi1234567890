@@ -1,11 +1,11 @@
 <h1 align="center">Hey!!! I'm Shubhi Katiyar👩🏻</h1>
 <h3 align="center">A passionate Flutter & DevOps Engineer : Bridging the gap between code💻 and production🏗️.</h3>
 
-- 🌱 I’m currently learning **n8n - an interesting way of working on LLMs .**
+- 🤖 I’m currently learning **n8n - an interesting way of working on LLMs .**
 
-- 📫 How to reach me **shubhik050@gmail.com**
+- 📥 How to reach me **shubhik050@gmail.com**
 
-- 📄 Know about my experiences [https://shubhi1234567890.github.io/myresume/](https://shubhi1234567890.github.io/myresume/)
+- 💼 Know about my experiences [https://shubhi1234567890.github.io/myresume/](https://shubhi1234567890.github.io/myresume/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
