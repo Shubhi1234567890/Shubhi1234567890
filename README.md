@@ -6,6 +6,8 @@
 - 📥 How to reach me **shubhik050@gmail.com**
 
 - 💼 Know about my experiences [https://shubhi1234567890.github.io/myresume/](https://shubhi1234567890.github.io/myresume/)
+  
+- 🛠️ Know about me [https://teal-cubes-shubhi.lovable.app/](https://teal-cubes-shubhi.lovable.app/)
 
 <h3 align="left">Ready to build something great? Find me on :</h3>
 <p align="left">
